@@ -18,7 +18,7 @@ public class mobil {
     BufferedReader br = new BufferedReader(isr);
     static ArrayList listmobil = new ArrayList<>();
 
-    void tambah_buku() throws IOException {
+    void tambah_mobil() throws IOException {
         
         System.out.println("Nama : ");
         name = br.readLine();
